@@ -2,12 +2,6 @@ Semantics is the study of the meaning of words. In Natural Language Modelling (N
 
 # Setup environmnet - Colab 
 
-
-```python
-
-```
-
-
 ```python
 !pip install pytrec_eval
 ```
