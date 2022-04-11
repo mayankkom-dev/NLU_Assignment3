@@ -1,3 +1,4 @@
+[Open in Colab](https://colab.research.google.com/github/mayankkom-dev/NLU_Assignment3/blob/main/COMP8730_Assign03_kumar48.ipynb)</p>
 Semantics is the study of the meaning of words. In Natural Language Modelling (NLM), the semantics of words can be explained using two approaches, namely i) lexical semantics determined manually by linguistics and ii) vector semantics that is based on the idea of distributional semantics. In our work, for simplicity, we argue that lexical semantics are the golden standard about the semantics of the words based on which we evaluate the results of vector semantics methods - TFiDF, Word2vec using nDCG as our metric. 
 
 # Setup environmnet - Colab 
